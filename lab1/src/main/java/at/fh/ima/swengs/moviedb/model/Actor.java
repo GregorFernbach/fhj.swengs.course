@@ -19,10 +19,11 @@ public class Actor {
     private String firstName;
     private String lastName;
  
-    @Temporal(TemporalType.DATE)
+    @Temporal(TemporalType.TIMESTAMP)
     @JsonFormat(shape = JsonFormat.Shape.STRING,pattern = "dd.MM.yyyy")
     private Date dayOfBirth;
- 
+
+    //mappedBy look on the other side
     @ManyToMany(mappedBy = "actors")
     private List<Movie> movies;
  

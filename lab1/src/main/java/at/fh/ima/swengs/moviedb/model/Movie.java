@@ -20,17 +20,19 @@ public class Movie {
  
     private String plot;
  
-    @Temporal(TemporalType.DATE)
+    @Temporal(TemporalType.TIMESTAMP)
     @JsonFormat(shape = JsonFormat.Shape.STRING,pattern = "dd.MM.yyyy")
     private Date releaseDate;
  
     @ManyToOne
+    @JsonIgnoreProperties("movies")
     private Genre genre;
  
     private int length;
     private boolean color;
  
     @ManyToMany
+    @JsonIgnoreProperties("movies")
     private List<Actor> actors;
  
     @Version

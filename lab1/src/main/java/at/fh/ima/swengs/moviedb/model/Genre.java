@@ -17,7 +17,7 @@ public class Genre {
  
     private String description;
  
-    @OneToMany(mappedBy = "genre",orphanRemoval = true)
+    @OneToMany(mappedBy = "genre")
     private List<Movie> movies;
  
     @Version
