@@ -1,0 +1,8 @@
+<input type="text" #box (keypress)="filterEmployees(box.value);" value="" placeholder="filter">
+<div *ngFor="let employee of imaEmployeeArray; let i =index">
+  <img [src]="employee.image"/>
+  <h1> {{i}} : {{employee.name}}</h1>
+  <div>{{employee.position}}</div>
+  <h2 [innerHTML]="employee.description" *ngIf="employee.description"></h2>
+</div>
+

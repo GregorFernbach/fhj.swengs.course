@@ -1,0 +1,183 @@
+[
+  {
+    "name": "Werner Fritz",
+    "image": "https://cdn.fh-joanneum.at/person/1025000000000001899-fritz-werner--small.jpg",
+    "position": "Institutsleiter Informationsmanagement",
+    "description" : "Der Studiengangsleiter."
+  },
+  {
+    "name": "Roswitha Hofer",
+    "image": "https://cdn.fh-joanneum.at/person/4297953469-hofer-roswitha--small.jpg",
+    "position": "Sekretärin"
+  },
+  {
+    "name": "Cornelia Pressnitz",
+    "image": "https://cdn.fh-joanneum.at/person/1025000000000007326-pressnitz-cornelia--small.jpg",
+    "position": "Sekretärin"
+  },
+  {
+    "name": "Tanja Schoberegger",
+    "image": "https://www.fh-joanneum.at/content/themes/fhjoanneum/assets/images/avatar_dummy.png",
+    "position": "Sekretärin"
+  },
+  {
+    "name": "Stefan Geister",
+    "image": "https://cdn.fh-joanneum.at/person/1025000000000005291-geister-stefan--small.jpg",
+    "position": "IT-Infrastrukturspezialist"
+  },
+  {
+    "name": "Werner Hauser",
+    "image": "https://cdn.fh-joanneum.at/person/1025000000000003367-hauser-werner--small.jpg",
+    "position": "Fachbereichkoordinator für Recht"
+  },
+  {
+    "name": "Marcus Hopfer",
+    "image": "https://cdn.fh-joanneum.at/person/1025000000000002784-hopfer-marcus--small.jpg",
+    "position": "IT-Infrastruktur und Beschaffungsspezialist"
+  },
+  {
+    "name": "Gerhild Janser-Munro",
+    "image": "https://cdn.fh-joanneum.at/person/1025000000000003622-janser-munro-gerhild--small.jpg",
+    "position": "Hochschullektorin (FH)"
+  },
+  {
+    "name": "Georg Mittenecker",
+    "image": "https://cdn.fh-joanneum.at/person/1025000000000003616-mittenecker-georg--small.jpg",
+    "position": "Dozent (FH)"
+  },
+  {
+    "name": "Alexander Nischelwitzer",
+    "image": "https://cdn.fh-joanneum.at/person/1025000000000002265-nischelwitzer-alexander--small.jpg",
+    "position": "Assoziierter Professor (FH)"
+  },
+  {
+    "name": "Rüdiger Rudolf",
+    "image": "https://cdn.fh-joanneum.at/person/1025000000000000579-rudolf-rüdiger--small.jpg",
+    "position": "Hochschullektor (FH)"
+  },
+  {
+    "name": "Peter Salhofer",
+    "image": "https://cdn.fh-joanneum.at/person/1025000000000004107-salhofer-peter--small.jpg",
+    "position": "Assoziierter Professor (FH)"
+  },
+  {
+    "name": "Sandra Schadenbauer",
+    "image": "https://cdn.fh-joanneum.at/person/4303458178-schadenbauer-sandra--small.jpg",
+    "position": "Hochschullektorin (FH)"
+  },
+  {
+    "name": "Christopher Schwarz",
+    "image": "https://cdn.fh-joanneum.at/person/1025000000000008244-schwarz-christopher--small.jpg",
+    "position": "Dozent (FH)"
+  },
+  {
+    "name": "Robert Singer",
+    "image": "https://cdn.fh-joanneum.at/person/1025000000000003389-singer-robert--small.jpg",
+    "position": "Dozent (FH)"
+  },
+  {
+    "name": "Gerhard Sprung",
+    "image": "https://cdn.fh-joanneum.at/person/1025000000000004210-sprung-gerhard--small.jpg",
+    "position": "Dozent (FH)"
+  },
+  {
+    "name": "Robert Strohmaier",
+    "image": "https://cdn.fh-joanneum.at/person/4295311471-strohmaier-robert--small.jpg",
+    "position": "Hochschullektor (FH)"
+  },
+  {
+    "name": "Lisa Zimmermann",
+    "image": "https://cdn.fh-joanneum.at/person/1025000000000002271-zimmermann-lisa--small.jpg",
+    "position": "Hauptberuflich Lehrende"
+  },
+  {
+    "name": "Erwin Zinser",
+    "image": "https://cdn.fh-joanneum.at/person/1025000000000002807-zinser-erwin--small.jpg",
+    "position": "Assoziierter Professor (FH)"
+  },
+  {
+    "name": "Andreas Avender",
+    "image": "https://cdn.fh-joanneum.at/person/1025000000000005252-avender-andreas--small.jpg",
+    "position": "Nebenberuflich Lehrender"
+  },
+  {
+    "name": "Johann Blauensteiner",
+    "image": "https://cdn.fh-joanneum.at/person/1025000000000005389-blauensteiner-johann--small.jpg",
+    "position": "Nebenberuflich Lehrender"
+  },
+  {
+    "name": "Lukas Franz Bloder",
+    "image": "https://www.fh-joanneum.at/content/themes/fhjoanneum/assets/images/avatar_dummy.png",
+    "position": "Nebenberuflich Lehrender"
+  },
+  {
+    "name": "Gernot Fritz",
+    "image": "https://cdn.fh-joanneum.at/person/1025000000000002604-fritz-gernot--small.jpg",
+    "position": "Nebenberuflich Lehrender"
+  },
+  {
+    "name": "Dietmar Gaar",
+    "image": "https://cdn.fh-joanneum.at/person/1025100000000009366-gaar-dietmar--small.jpg",
+    "position": "Nebenberuflich Lehrender"
+  },
+  {
+    "name": "Benjamin Gürtl",
+    "image": "https://www.fh-joanneum.at/content/themes/fhjoanneum/assets/images/avatar_dummy.png",
+    "position": "Nebenberuflich Lehrender"
+  },
+  {
+    "name": "Michael Harnisch",
+    "image": "https://cdn.fh-joanneum.at/person/4364620596-harnisch-michael--small.jpg",
+    "position": "Nebenberuflich Lehrender"
+  },
+  {
+    "name": "Alexander Herbst",
+    "image": "https://cdn.fh-joanneum.at/person/4302822930-herbst-alexander--small.jpg",
+    "position": "Nebenberuflich Lehrender"
+  },
+  {
+    "name": "Johannes Hofrichter",
+    "image": "https://cdn.fh-joanneum.at/person/1025000000000005368-hofrichter-johannes--small.jpg",
+    "position": "Nebenberuflich Lehrender"
+  },
+  {
+    "name": "Gerhard Jauk",
+    "image": "https://cdn.fh-joanneum.at/person/4299376763-jauk-gerhard--small.jpg",
+    "position": "Nebenberuflich Lehrender"
+  },
+  {
+    "name": "Markus Königstorfer",
+    "image": "https://cdn.fh-joanneum.at/person/4304147493-königstorfer-markus--small.jpg",
+    "position": "Nebenberuflich Lehrender"
+  },
+  {
+    "name": "Klemens Konopasek",
+    "image": "https://cdn.fh-joanneum.at/person/1025000000000002679-konopasek-klemens--small.jpg",
+    "position": "Nebenberuflich Lehrender"
+  },
+  {
+    "name": "Stefan Krausler-Baumann",
+    "image": "https://cdn.fh-joanneum.at/person/4383953968-krausler-baumann-stefan--small.jpg",
+    "position": "Nebenberuflich Lehrender"
+  },
+  {
+    "name": "Gerd Radl",
+    "image": "https://cdn.fh-joanneum.at/person/1025000000000004106-radl-gerd--small.jpg",
+    "position": "Nebenberuflich Lehrender"
+  },
+  {
+    "name": "Christoph Schiebl",
+    "image": "https://cdn.fh-joanneum.at/person/4381077981-schiebl-christoph--small.jpg",
+    "position": "Nebenberuflich Lehrender"
+  },
+  {
+    "name": "Georg Smolek",
+    "image": "https://cdn.fh-joanneum.at/person/1025000000000005328-smolek-georg--small.jpg",
+    "position": "Nebenberuflich Lehrender"
+  },
+  {
+    "name": "Clemens Wiesinger",
+    "image": "https://cdn.fh-joanneum.at/person/4353441136-wiesinger-clemens--small.jpg",
+    "position": "Nebenberuflich Lehrender"
+  }
+]
