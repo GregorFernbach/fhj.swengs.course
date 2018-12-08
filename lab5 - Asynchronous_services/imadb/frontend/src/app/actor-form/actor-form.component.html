@@ -1,0 +1,11 @@
+<form (ngSubmit)="createActor()">
+  <label>
+    First name:
+    <input type="text" name="firstName" [(ngModel)]="actor.firstName"/>
+  </label>
+  <label>
+    Last name:
+    <input type="text" name="lastName" [(ngModel)]="actor.lastName"/>
+  </label>
+  <button type="submit"> CREATE OIDA!</button>
+</form>
