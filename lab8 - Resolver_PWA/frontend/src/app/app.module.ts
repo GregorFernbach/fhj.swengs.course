@@ -20,7 +20,7 @@ import {ServiceWorkerModule} from '@angular/service-worker';
 import {environment} from '../environments/environment';
 import {ToastrModule} from 'ngx-toastr';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
-import {ErrorInterceptor} from './httpinterceptor/error.interceptor';
+//import {ErrorInterceptor} from './httpinterceptor/error.interceptor';
 
 defineLocale('de', deLocale);
 
@@ -28,11 +28,11 @@ defineLocale('de', deLocale);
 export function tokenGetter() {
   return localStorage.getItem('access_token');
 }
-
+/*
 export const httpInterceptorProviders = [
   {provide: HTTP_INTERCEPTORS, useClass: ErrorInterceptor, multi: true},
 ];
-
+*/
 @NgModule({
   declarations: [
     AppComponent,
@@ -60,7 +60,7 @@ export const httpInterceptorProviders = [
     BrowserAnimationsModule,
     ToastrModule.forRoot()
   ],
-  providers: [httpInterceptorProviders],
+  //providers: [httpInterceptorProviders],
   bootstrap: [AppComponent]
 })
 export class AppModule {
